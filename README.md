@@ -36,7 +36,7 @@
 <h1>GitHub Stats! 📊</h1>
 <Br>
 
-[![Giray's github stats](https://github-readme-stats.vercel.app/api?username=ucargiray&show_icons=true&theme=merko)](https://github.com/ucargiray/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucargiray&layout=compact)](https://github.com/ucargiray/github-readme-stats)
+[![Giray's github stats](https://github-readme-stats.vercel.app/api?username=ucargiray&show_icons=true)](https://github.com/ucargiray/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucargiray&layout=compact)](https://github.com/ucargiray/github-readme-stats)
   <Br>
     <Br>
 <hr>
