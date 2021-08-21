@@ -7,8 +7,7 @@
 <h1>About Me!</h1>
 
 - 🏫: I'm a fourth year Computer Science (Software Engineering) student
-- 🔭: I’m currently working at company called Appcent as Jr. iOS Developer
-- 🌱: I’m currently learning SwiftUI
+- 🌱: Currently improving my SwiftUI knowledge.
 
 <hr>
 <Br>
