@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/ucargiray">Ahmet Giray Uçar<a></h1>
 <Br>
