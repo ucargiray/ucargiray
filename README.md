@@ -10,16 +10,16 @@
 - 🌱: Currently improving my SwiftUI knowledge.
   
   <h3>Skills</h3>
-  - : UIKit
-  - : SwiftUI
-  - : Good knowledge of Xcode and it's tools
-  - : Experience with deployment via the App Store (One live app on App Store!)
-  - : Familiarity with RESTful APIs to connect iOS applications to back-end services
-  - : Experience with version control systems (GitHub - Bitbucket)
-  - : Experience with offline storage in iOS.
-  - : Experience with agile software development practices
-  - : Experience with design tools such as Figma, Zeplin
-  - : MVVM
+- : UIKit
+- : SwiftUI
+- : Good knowledge of Xcode and it's tools
+- : Experience with deployment via the App Store (One live app on App Store!)
+- : Familiarity with RESTful APIs to connect iOS applications to back-end services
+- : Experience with version control systems (GitHub - Bitbucket)
+- : Experience with offline storage in iOS.
+- : Experience with agile software development practices
+- : Experience with design tools such as Figma, Zeplin
+- : MVVM
 
 <hr>
 <Br>
