@@ -20,13 +20,6 @@
 
 <hr>
 <Br>
-<h1 align="center">Get in Touch! 📬</h1>
-<Br>
-<p align="center">
-<a href="https://https://www.linkedin.com/in/ucargiray/" target="_blank"><img align="center" src="https://img.shields.io/badge/Ahmet Giray Uçar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:ucargiray@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/ucargiray@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<Br>
 <Br>
 <hr>
 
