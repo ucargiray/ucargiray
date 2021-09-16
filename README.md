@@ -1,5 +1,4 @@
 <h1 align="center">I'm <a href="https://github.com/ucargiray">Ahmet Giray Uçar<a></h1>
-<Br>
 <h1>About Me!</h1>
 
 - 🏫: I'm a fourth year Computer Science (Software Engineering) student
