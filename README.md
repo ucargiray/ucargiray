@@ -1,4 +1,3 @@
-<hr>
 <h1 align="center">I'm <a href="https://github.com/ucargiray">Ahmet Giray Uçar<a></h1>
 <Br>
 <h1>About Me!</h1>
@@ -21,7 +20,6 @@
 <hr>
 <Br>
 <Br>
-<hr>
 
 <Br>
 <h1>Some of my Projects!</h1>
