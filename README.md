@@ -41,6 +41,12 @@
 <Br>
 <hr>
 <Br>
+  <h1>My Apps! </h1>
+  <Br>
+    <p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+<Br>
 <h1>GitHub Stats! 📊</h1>
 <Br>
 
@@ -48,3 +54,4 @@
   <Br>
     <Br>
 <hr>
+      
