@@ -35,7 +35,9 @@
   <h1>My Apps! </h1>
   <Br>
     <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+<a target="_blank" href="https://apps.apple.com/us/app/valo-crosshair/id1583246834"> 
+                                    <img src="https://i.hizliresim.com/g3v5f8g.png" , width="250px" height="250px"/>
+                                </a>
 </p>
 <Br>
 <h1>GitHub Stats! 📊</h1>
