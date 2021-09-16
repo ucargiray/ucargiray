@@ -36,7 +36,7 @@
   <Br>
     <p align="center">
 <a target="_blank" href="https://apps.apple.com/us/app/valo-crosshair/id1583246834"> 
-                                    <img src="https://i.hizliresim.com/g3v5f8g.png" , width="250px" height="250px"/>
+                                    <img src="https://i.hizliresim.com/g3v5f8g.png" , width="350px" height="350px"/>
                                 </a>
 </p>
 <Br>
