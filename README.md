@@ -1,7 +1,7 @@
 <h1 align="center">I'm <a href="https://github.com/ucargiray">Ahmet Giray Uçar<a></h1>
 <h1>About Me!</h1>
   
-- 🤓: I love iOS Development
+- 🤓: Addicted to iOS Development
 - 🏫: I'm a fourth year Computer Science (Software Engineering) student
 - 🌱: Currently improving my SwiftUI knowledge.
   
