@@ -13,10 +13,10 @@
 -  Experience with deployment via the App Store (One live app on App Store!)
 -  Familiarity with RESTful APIs to connect iOS applications to back-end services
 -  Experience with version control systems (GitHub - Bitbucket)
--  Experience with offline storage in iOS.
--  Experience with agile software development practices
+-  Experience with offline storage in iOS (UserDefaults, SQLite , CoreData)
+-  Experience with agile software development practices (Trello, Jira)
 -  Experience with design tools such as Figma, Zeplin
--  MVVM
+-  Design patterns (MVVM , MVC)
 
 <hr>
 
