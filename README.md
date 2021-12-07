@@ -10,7 +10,7 @@
 -  UIKit
 -  SwiftUI
 -  Good knowledge of Xcode and it's tools
--  Experience with deployment via the App Store (One live app on App Store!)
+-  Experience with deployment via the App Store (Two live apps on App Store!)
 -  Familiarity with RESTful APIs to connect iOS applications to back-end services
 -  Experience with version control systems (GitHub - Bitbucket)
 -  Experience with offline storage in iOS (UserDefaults, SQLite , CoreData)
