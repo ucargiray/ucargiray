@@ -17,6 +17,7 @@
 -  Experience with agile software development practices (Trello, Jira)
 -  Experience with design tools such as Figma, Zeplin
 -  Design patterns (MVVM , MVC)
+-  Combine (Reactive Programming)
 
 <hr>
 
