@@ -3,7 +3,6 @@
   
 - 🤓: Addicted to iOS Development
 - 🏫: I'm a fourth year Computer Science (Software Engineering) student
-- 🌱: Currently improving my SwiftUI knowledge.
   
   <br>
 ## Skills
@@ -15,8 +14,8 @@
 -  Experience with version control systems (GitHub - Bitbucket)
 -  Experience with offline storage in iOS (UserDefaults, SQLite , CoreData)
 -  Experience with agile software development practices (Trello, Jira)
--  Experience with design tools such as Figma, Zeplin
--  Design patterns (MVVM , MVC)
+-  Experience with design tools such as Figma and Zeplin
+-  Design patterns (MVVM , MVC , VIPER coming soon)
 -  Combine (Reactive Programming)
 
 <hr>
