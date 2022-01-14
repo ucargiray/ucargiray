@@ -1,22 +1,10 @@
 <h1 align="center">I'm <a href="https://github.com/ucargiray">Ahmet Giray Uçar<a></h1>
 <h1>About Me!</h1>
   
-- 🤓: Addicted to iOS Development
+- 🤓: Addicted to iOS Application Development using Swift language.
 - 🏫: I'm a fourth year Computer Science (Software Engineering) student
   
   <br>
-## Skills
--  UIKit
--  SwiftUI
--  Good knowledge of Xcode and it's tools
--  Experience with deployment via the App Store (Two live apps on App Store!)
--  Familiarity with RESTful APIs to connect iOS applications to back-end services
--  Experience with version control systems (GitHub - Bitbucket)
--  Experience with offline storage in iOS (UserDefaults, SQLite , CoreData)
--  Experience with agile software development practices (Trello, Jira)
--  Experience with design tools such as Figma and Zeplin
--  Design patterns (MVVM , MVC , VIPER coming soon)
--  Combine (Reactive Programming)
 
 <hr>
 
