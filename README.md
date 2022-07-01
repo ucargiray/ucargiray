@@ -2,7 +2,6 @@
 <h1>About Me!</h1>
   
 - 🤓: Addicted to iOS Application Development using Swift language.
-- 🏫: I'm a fourth year Computer Science (Software Engineering) student
   
   <br>
 
