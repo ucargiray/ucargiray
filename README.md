@@ -1,42 +1,54 @@
-<h1 align="center">I'm <a href="https://github.com/ucargiray">Ahmet Giray Uçar<a></h1>
-<h1>About Me!</h1>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>  
   
-- 🤓: Addicted to iOS Application Development using Swift language.
+
+### <div align="center">I'm Ahmet Giray Uçar</div>  
   
-  <br>
 
-<hr>
-
-<Br>
-<h1>Some of my Projects!</h1>
-<Br>
+- 🌱 Addicted to iOS development using Swift language  
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ucargiray&repo=PrettyBorder)](https://github.com/ucargiray/PrettyBorder)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ucargiray&repo=QR-Scan-w--ScanKit)](https://github.com/ucargiray/QR-Scan-w--ScanKit)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ucargiray&repo=Custom-Calendar)](https://github.com/ucargiray/Custom-Calendar)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ucargiray&repo=Weather-Reporter)](https://github.com/ucargiray/Weather-Reporter)
- 
-<Br>
-<hr>
-  <h1>My Apps! </h1>
-  <Br>
-    <p align="center">
-<a target="_blank" href="https://apps.apple.com/us/app/valo-crosshair/id1583246834"> 
-                                    <img src="https://i.hizliresim.com/g3v5f8g.png" , width="350px" height="350px"/>
-                                </a>
-      
-<a target="_blank" href="https://apps.apple.com/us/app/valo-cases/id1597135390"> 
-                                    <img src="https://i.hizliresim.com/diterhi.png" , width="350px" height="350px"/>
-                                </a>
-      
-</p>
-<Br>
-<hr>
-<h1>GitHub Stats! 📊</h1>
-<Br>
 
-[![Giray's github stats](https://github-readme-stats.vercel.app/api?username=ucargiray&show_icons=true)](https://github.com/ucargiray/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ucargiray&layout=compact)](https://github.com/ucargiray/github-readme-stats)
-  <Br>
-    <Br>
-<hr>
-      
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://twitter.com/ucargirayy" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/ucargiray" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@ucargiray" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ucargiray&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ucargiray&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+<div align="center">
+            <a href="https://www.buymeacoffee.com/ucargiray" target="_blank" style="display: inline-block;">
+                <img
+                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+                    align="center"
+                />
+            </a></div>
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
